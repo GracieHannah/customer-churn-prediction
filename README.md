@@ -73,9 +73,9 @@ The CatBoost model achieved strong predictive performance.
 
 | Model              | ROC-AUC  |
 | ------------------ | -------- |
-| CatBoostClassifier | **0.9329** |
+| CatBoostClassifier | **0.93** |
 
-A ROC-AUC score of **0.9329** indicates excellent separation between customers who churn and those who remain.
+A ROC-AUC score of **0.93** indicates excellent separation between customers who churn and those who remain.
 
 ---
 
